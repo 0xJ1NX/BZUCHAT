@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BZUCHAT</string>
+    <string name="photo_phone_number">photo_phone_number</string>
+    <string name="imagebg">imageBg</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "51504185580",
+    "project_id": "bzuchat-8159e",
+    "storage_bucket": "bzuchat-8159e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51504185580:android:ec339c512841d0d60be5c9",
+        "android_client_info": {
+          "package_name": "bzu.proj.BZUCHAT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51504185580-ukvmd49d41r2770r8hl6u00fmvr5aahl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcFK7qfCYboxqRBKGhT43LPHakr4oRwT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51504185580-ukvmd49d41r2770r8hl6u00fmvr5aahl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
